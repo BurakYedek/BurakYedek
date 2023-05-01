@@ -1,4 +1,4 @@
-<h1>Hi, I'm Burak! <br/><a href="https://github.com/BurakYedek">Tech Lover</a>, <a href="www.linkedin.com/in/burak-yedek/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Burak! <br/><a href="https://github.com/BurakYedek">Tech Lover</a>, <a href="https://www.linkedin.com/in/burak-yedek/)/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC43hvLqjjwJt4Y2Ss68CNRw">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

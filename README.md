@@ -27,7 +27,7 @@
 
 [twitter]: https://twitter.com/alibabarocks
 [youtube]: https://www.youtube.com/channel/UC43hvLqjjwJt4Y2Ss68CNRw
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/neversettledown/
 [linkedin]: https://www.linkedin.com/in/burak-yedek
 
 <!--

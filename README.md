@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications
 
-- [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA A+](https://www.credly.com/badges/c30888d5-ae69-4567-9feb-c6f9227041ed/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/6bafef59-3925-4dc6-9814-44f6ae3c28ad/public_url)
 
 <h2> 🤳 Connect with me:</h2>

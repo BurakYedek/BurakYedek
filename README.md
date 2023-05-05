@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>File Integrity Monitor</b>
-  - [Active Directory HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [File Integrity Monitor Project](https://github.com/BurakYedek/File-Integrity-Monitor)
 
 <h2>📺 Certifications
 

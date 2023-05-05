@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>File Integrity Monitor</b>
   - [Active Directory HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Certifications

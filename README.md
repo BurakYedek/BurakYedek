@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>File Integrity Monitor</b>
-  - [File Integrity Monitor Project](https://github.com/BurakYedek/File-Integrity-Monitor)
+  - [File Integrity Monitor (Powershell)](https://github.com/BurakYedek/File-Integrity-Monitor)
 
 <h2>📺 Certifications
 
